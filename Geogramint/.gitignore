@@ -1,0 +1,17 @@
+.idea
+.venv
+build
+dist
+appfiles/config.ini
+*.spec
+*.session
+*.ini
+cache
+cache_telegram/*
+venv/*
+utils/__pycache__
+geckodriver.log
+*/__pycache__/
+reportlab/
+Geogramint.spec
+Geogramint-compiler.iss
