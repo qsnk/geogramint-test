@@ -2,10 +2,9 @@
 .venv
 build
 dist
-appfiles/config.ini
+*.ini
 *.spec
 *.session
-*.ini
 cache
 cache_telegram/*
 venv/*
